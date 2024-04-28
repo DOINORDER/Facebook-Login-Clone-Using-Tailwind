@@ -1,0 +1,1 @@
+Tried to recreate the login page of facebook using HTML and Tailwind CSS. It's definitely not responsive but my main goal was to create it somehow, not to make it responsive but will be looking forward about the responsiveness in the FUTURE maybe.
